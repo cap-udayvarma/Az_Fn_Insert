@@ -1,9 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "functionAppKey":"1VzF0J_Emc50s34PVCzSb_Z-q8Ed0LqhdUror06ZHO7ZAzFuarHlzA==",
-    "AzureWebJobsStorage":"DefaultEndpointsProtocol=https;AccountName=udaypandetikrogerco83c0;AccountKey=2S4H7PUcnwk0A+eE/a+CjeG2vlkOw6Bt52zwhNumiIs6+DzDNotHn7kEwGXJ/5k4olODJon6uw+n+AStnZ2SgQ==;EndpointSuffix=core.windows.net",
-    "FUNCTIONS_WORKER_RUNTIME": "java"
-  }
-}
-
